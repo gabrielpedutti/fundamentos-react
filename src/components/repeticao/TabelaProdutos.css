@@ -1,0 +1,12 @@
+.TabelaProdutos th {
+    background-color: #008b8b;
+}
+
+.TabelaProdutos tr:nth-child(even) {
+    background-color: #008b8b5d;
+}
+
+.TabelaProdutos table {
+    border-collapse: collapse;
+    width: 100%;
+}
